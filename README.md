@@ -1,10 +1,14 @@
-# tik-tak-toe
+# Tic Tac Toe
 
 A simple and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript. The project provides a clean user interface and allows two players to play the classic game directly in the browser.
 
 ## Live Demo
 
 https://gaurav-projects07.github.io/tik-tak-toe/
+
+## Preview
+
+![Tic Tac Toe](assets/screenshot.png)
 
 ## Features
 
@@ -25,6 +29,9 @@ https://gaurav-projects07.github.io/tik-tak-toe/
 
 ```text
 tik-tak-toe/
+│
+├── assets/
+│   └── screenshot.png
 │
 ├── index.html
 ├── styles.css
